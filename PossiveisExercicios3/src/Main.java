@@ -10,6 +10,11 @@ import java.util.List;
 
 public class Main {
 
+    /*NOME: Leonardo Martinez dos santos
+     * RGM: 34456007
+     */
+
+
     public static void main(String[] args) {
         String caminhoArquivo = "C:\\Users\\Marti\\Desktop\\javaRevisao\\PossiveisExercicios3\\alunos.csv";
         String caminhoRelatorio = "C:\\Users\\Marti\\Desktop\\javaRevisao\\PossiveisExercicios3\\relatorio-alunos.csv";
