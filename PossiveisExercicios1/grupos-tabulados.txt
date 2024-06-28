@@ -1,0 +1,5 @@
+GrupoA\t100
+GrupoB\t200
+GrupoA\t150
+GrupoC\t300
+GrupoB\t50
